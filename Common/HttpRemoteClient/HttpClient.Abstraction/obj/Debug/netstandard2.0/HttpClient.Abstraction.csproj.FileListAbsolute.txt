@@ -1,0 +1,9 @@
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\bin\Debug\netstandard2.0\HttpClient.Abstraction.deps.json
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\bin\Debug\netstandard2.0\HttpClient.Abstraction.dll
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\bin\Debug\netstandard2.0\HttpClient.Abstraction.pdb
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.dll
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.pdb
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\HttpClient.Abstraction\obj\Debug\netstandard2.0\HttpClient.Abstraction.csprojAssemblyReference.cache

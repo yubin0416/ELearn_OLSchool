@@ -1,0 +1,11 @@
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\bin\Debug\netcoreapp2.0\Payment.API.deps.json
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\bin\Debug\netcoreapp2.0\Payment.API.runtimeconfig.json
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\bin\Debug\netcoreapp2.0\Payment.API.runtimeconfig.dev.json
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\bin\Debug\netcoreapp2.0\Payment.API.dll
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\bin\Debug\netcoreapp2.0\Payment.API.pdb
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.dll
+D:\Product\ELearn_OLSchool\src\Payment\Payment.API\obj\Debug\netcoreapp2.0\Payment.API.pdb

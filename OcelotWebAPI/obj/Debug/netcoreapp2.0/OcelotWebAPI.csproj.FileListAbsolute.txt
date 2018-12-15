@@ -1,0 +1,14 @@
+D:\Product\ELearn_OLSchool\OcelotWebAPI\bin\Debug\netcoreapp2.0\OcelotWebAPI.deps.json
+D:\Product\ELearn_OLSchool\OcelotWebAPI\bin\Debug\netcoreapp2.0\OcelotWebAPI.runtimeconfig.json
+D:\Product\ELearn_OLSchool\OcelotWebAPI\bin\Debug\netcoreapp2.0\OcelotWebAPI.runtimeconfig.dev.json
+D:\Product\ELearn_OLSchool\OcelotWebAPI\bin\Debug\netcoreapp2.0\OcelotWebAPI.dll
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\OcelotWebAPI\bin\Debug\netcoreapp2.0\OcelotWebAPI.pdb
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.RazorAssemblyInfo.cache
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.RazorAssemblyInfo.cs
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.RazorTargetAssemblyInfo.cache
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.dll
+D:\Product\ELearn_OLSchool\OcelotWebAPI\obj\Debug\netcoreapp2.0\OcelotWebAPI.pdb

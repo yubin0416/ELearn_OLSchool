@@ -1,0 +1,14 @@
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\UserCenter.API.deps.json
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\UserCenter.API.runtimeconfig.json
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\UserCenter.API.runtimeconfig.dev.json
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\UserCenter.API.dll
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\UserCenter.API.pdb
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\BaseCommon.dll
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\bin\Debug\netcoreapp2.0\BaseCommon.pdb
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.csproj.CopyComplete
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.dll
+D:\Product\ELearn_OLSchool\src\UserCenter\UserCenter.API\obj\Debug\netcoreapp2.0\UserCenter.API.pdb

@@ -1,0 +1,26 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\Common\HttpRemoteClient\ResilienceHttpClient\ResilienceHttpClient.csproj" />
+    <ProjectReference Include="..\Curriculum.Domain\Curriculum.Domain.csproj" />
+    <ProjectReference Include="..\Curriculum.Infrastruction\Curriculum.Infrastruction.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Automapper\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Autofac.Extensions.DependencyInjection" Version="4.3.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="6.0.0" />
+    <PackageReference Include="DotNetCore.CAP" Version="2.3.1" />
+    <PackageReference Include="DotNetCore.CAP.RabbitMQ" Version="2.3.1" />
+    <PackageReference Include="FluentValidation" Version="8.0.100" />
+    <PackageReference Include="Newtonsoft.Json" Version="12.0.1" />
+  </ItemGroup>
+
+</Project>

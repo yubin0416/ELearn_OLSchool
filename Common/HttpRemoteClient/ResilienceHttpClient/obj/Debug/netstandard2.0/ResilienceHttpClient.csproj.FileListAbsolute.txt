@@ -1,0 +1,12 @@
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\bin\Debug\netstandard2.0\HttpClient.Abstraction.dll
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\bin\Debug\netstandard2.0\ResilienceHttpClient.deps.json
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\bin\Debug\netstandard2.0\ResilienceHttpClient.dll
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\bin\Debug\netstandard2.0\ResilienceHttpClient.pdb
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\bin\Debug\netstandard2.0\HttpClient.Abstraction.pdb
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.csproj.CopyComplete
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.dll
+D:\Product\ELearn_OLSchool\Common\HttpRemoteClient\ResilienceHttpClient\obj\Debug\netstandard2.0\ResilienceHttpClient.pdb

@@ -1,0 +1,14 @@
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\DDD.Framework.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\OrderCenter.Domain.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\DDD.Framework.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\OrderCenter.Infrastructure.deps.json
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\OrderCenter.Infrastructure.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\OrderCenter.Infrastructure.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\bin\Debug\netstandard2.0\OrderCenter.Domain.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.csproj.CopyComplete
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Infrastructure\obj\Debug\netstandard2.0\OrderCenter.Infrastructure.pdb

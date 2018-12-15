@@ -1,0 +1,9 @@
+D:\Product\ELearn_OLSchool\Common\BaseCommon\bin\Debug\netstandard2.0\BaseCommon.deps.json
+D:\Product\ELearn_OLSchool\Common\BaseCommon\bin\Debug\netstandard2.0\BaseCommon.dll
+D:\Product\ELearn_OLSchool\Common\BaseCommon\bin\Debug\netstandard2.0\BaseCommon.pdb
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.dll
+D:\Product\ELearn_OLSchool\Common\BaseCommon\obj\Debug\netstandard2.0\BaseCommon.pdb

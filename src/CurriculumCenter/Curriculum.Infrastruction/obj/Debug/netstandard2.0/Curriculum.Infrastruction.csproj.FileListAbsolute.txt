@@ -1,0 +1,14 @@
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\Curriculum.Domain.dll
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\DDD.Framework.dll
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\DDD.Framework.pdb
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\Curriculum.Infrastruction.deps.json
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\Curriculum.Infrastruction.dll
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\Curriculum.Infrastruction.pdb
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\bin\Debug\netstandard2.0\Curriculum.Domain.pdb
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.csproj.CopyComplete
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.dll
+D:\Product\ELearn_OLSchool\src\CurriculumCenter\Curriculum.Infrastruction\obj\Debug\netstandard2.0\Curriculum.Infrastruction.pdb

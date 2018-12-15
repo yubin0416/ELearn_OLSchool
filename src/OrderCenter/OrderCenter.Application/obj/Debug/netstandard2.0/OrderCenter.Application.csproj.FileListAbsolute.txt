@@ -1,0 +1,16 @@
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\DDD.Framework.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Domain.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Infrastructure.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\DDD.Framework.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Application.deps.json
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Application.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Application.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Domain.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\bin\Debug\netstandard2.0\OrderCenter.Infrastructure.pdb
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.csproj.CopyComplete
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.dll
+D:\Product\ELearn_OLSchool\src\OrderCenter\OrderCenter.Application\obj\Debug\netstandard2.0\OrderCenter.Application.pdb

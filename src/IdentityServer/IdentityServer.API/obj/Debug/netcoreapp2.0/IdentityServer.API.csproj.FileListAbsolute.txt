@@ -1,0 +1,16 @@
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\IdentityServer.API.deps.json
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\IdentityServer.API.runtimeconfig.json
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\IdentityServer.API.runtimeconfig.dev.json
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\IdentityServer.API.dll
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.csprojAssemblyReference.cache
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.csproj.CoreCompileInputs.cache
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.AssemblyInfoInputs.cache
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.AssemblyInfo.cs
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\IdentityServer.API.pdb
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.dll
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.pdb
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\HttpClient.Abstraction.dll
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\ResilienceHttpClient.dll
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\ResilienceHttpClient.pdb
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\bin\Debug\netcoreapp2.0\HttpClient.Abstraction.pdb
+D:\Product\ELearn_OLSchool\src\IdentityServer\IdentityServer.API\obj\Debug\netcoreapp2.0\IdentityServer.API.csproj.CopyComplete
