@@ -2,7 +2,6 @@
 # 此 .gitignore 文件已由 Microsoft(R) Visual Studio 自动创建。
 ################################################################################
 
-/src/IdentityServer/IdentityServer.API/bin/Debug/netcoreapp2.0
-/bin
-/obj
+*/bin
+*/obj
 /.vs
